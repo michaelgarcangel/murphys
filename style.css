@@ -1,0 +1,12 @@
+.grad-background {
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-size: cover;
+  height: 200px;
+}
+
+.footer-image {
+  background-color: #004030;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
